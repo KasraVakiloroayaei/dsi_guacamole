@@ -1,6 +1,7 @@
 # Recipe for Guacamole
 Serves 4
 
+<<<<<<< HEAD
 - 0.5 small yellow onion, finely diced
 - 2 Roma tomatoes, diced
 - 3 tablespoons finely chopped fresh cilantro
@@ -8,4 +9,4 @@ Serves 4
 - 2 garlic cloves, minced
 - 1 lime, juiced
 - 0.25 teaspoon kosher salt
-- 3 avocados
+- 3 avacados
